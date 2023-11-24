@@ -1,0 +1,41 @@
+<html>
+	<head>
+       <link rel="stylesheet" type="text/css" href="tarinay.css">
+<h1><center><img src="manam.png" alt="manam.png" width="100"></center></h1>
+</head>
+   <body>
+    <center><h2 colspan="1">CLASSIC MEALS</h2></center>
+ <table border="1" cellpadding="10" cellspacing="10">
+        
+
+
+         </tr>
+         <tr>
+          <td>SISIG</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          </tr>
+          <tr>
+          <table border="2" cellpadding="10" cellspacing="10">
+          <center><h2 colspan="1">TWISTS</h2></center>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      
+         </tr>
+         <tr>
+            
+         </tr>
+      </tbody></table>
+      
+
+
+               </table> 
+                     </body> 
+
+                     </html>
